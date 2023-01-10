@@ -2,7 +2,7 @@
 # Single Exponential Smoothing Web App
 
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://sesforecast.epizy.com/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://sesforecast.epizy.com)
 
 Forecasting is a method for predicting product demand in the future. Forecasting is very important in activities related to data. then this Web App is made to make it easier to do forecasting using the single exponential smoothing method.
 
